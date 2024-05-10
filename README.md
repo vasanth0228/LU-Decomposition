@@ -20,8 +20,8 @@ Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Program:
 (i) To find the L and U matrix
 ```
-#Developed by : MADHUMITHA V
-#Register Number : 2305002013
+#Developed by : VASANTH KUMAR V
+#Register Number : 2305002027
 
 import numpy as np
 from scipy.linalg import lu
@@ -46,8 +46,10 @@ x= lu_solve((lu,ply),B)
 print(x)
 ```
 ## Output:
-![Screenshot 2024-05-06 094226](https://github.com/Chithradheep/LU-Decomposition/assets/155504933/d95eb2ef-9e5c-4976-8dda-c6531ddf5732)
-![Screenshot 2024-05-06 094250](https://github.com/Chithradheep/LU-Decomposition/assets/155504933/4e5b8500-7e46-4ecd-a591-8e84cabd489b)
+![WhatsApp Image 2024-05-10 at 11 54 24_4b97b442](https://github.com/vasanth0228/LU-Decomposition/assets/155505264/54eac392-8e15-4056-ba31-c0486541e62d)
+![WhatsApp Image 2024-05-10 at 11 54 24_7fde761d](https://github.com/vasanth0228/LU-Decomposition/assets/155505264/44741ea0-1241-40b9-b5cb-5f0bc0bd808e)
+
+
 
 
 
